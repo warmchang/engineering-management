@@ -1570,7 +1570,7 @@ See also my [entrepreneurship-resource repo](https://github.com/charlax/entrepre
 - [Project Management for Software Engineers](https://sookocheff.com/post/engineering-management/project-management-for-software-engineers/): a 5-step process to running a project.
 - [Rescuing a project in progress](https://world.hey.com/jason/rescuing-a-project-in-progress-d31883f7), Jason Fried
   - Stop, status, selection, focus, finish, next.
-- [How I've run major projects | benkuhn.net](https://www.benkuhn.net/pjm/)
+- [How I've run major projects](https://www.benkuhn.net/pjm/)
 
 > The ultimate inspiration is the deadline.
 > — Nolan Bushnell
